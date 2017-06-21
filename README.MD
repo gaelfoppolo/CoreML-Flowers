@@ -28,7 +28,7 @@ $ python FlowerModeltoCoreML.py
 
 Drag the *FlowerClassifier.mlmodel* into the Xcode project and you can run it!
 
-##### For additionnal info, please read the article: 
+##### For additionnal info, please read the article: [https://medium.com/@gaelfoppolo/introduction-to-core-ml-conversion-tool-d1466bf10018](https://medium.com/@gaelfoppolo/introduction-to-core-ml-conversion-tool-d1466bf10018)
 
 ## License
 
